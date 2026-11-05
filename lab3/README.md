@@ -66,7 +66,7 @@ git clone https://github.com/akshara02-dotcom/akshara_5026_lab3.git
 ### 2. Open the project folder
 
 ```bash
-cd akshara_5026_lab3
+cd akshara_5026_lab3/lab3
 ```
 
 ### 3. Install dependencies
