@@ -43,16 +43,16 @@ lab3/
 ├── README.md
 │
 └── screenshots/
-    ├── 01-get-all.png
-    ├── 02-search.png
-    ├── 03-sorting.png
-    ├── 04-pagination.png
-    ├── 04-price-filter.png
-    ├── 06-multiple-query.png
-    ├── 07-post-success.png
-    ├── 08-post-validation.png
-    ├── 09-put-update.png
-    └── 10-delete.png
+    ├── DELETE Request.png
+    ├── GET All Books.png
+    ├── Multiple Query.png
+    ├── Pagination.png
+    ├── POST Successful Request.png
+    ├── POST Validation Error.png
+    ├── Price Filtering.png
+    ├── PUT Update Request.png
+    ├── Search Books.png
+    └── Sorting.png
 ```
 
 ## Installation and Setup
@@ -60,13 +60,13 @@ lab3/
 ### 1. Clone the repository
 
 ```bash
-git  https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
+git clone https://github.com/akshara02-dotcom/akshara_5026_lab3.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd lab3
+cd akshara_5026_lab3
 ```
 
 ### 3. Install dependencies
@@ -192,43 +192,43 @@ The tests include:
 
 ### 1. GET All Books
 
-![GET All Books](screenshots/01-get-all.png)
+![GET All Books](screenshots/GET%20All%20Books.png)
 
 ### 2. Search Books
 
-![Search Books](screenshots/02-search.png)
+![Search Books](screenshots/Search%20Books.png)
 
 ### 3. Sorting
 
-![Sorting](screenshots/03-sorting.png)
+![Sorting](screenshots/Sorting.png)
 
 ### 4. Pagination
 
-![Pagination](screenshots/04-pagination.png)
+![Pagination](screenshots/Pagination.png)
 
 ### 5. Price Filtering
 
-![Price Filtering](screenshots/05-price-filter.png)
+![Price Filtering](screenshots/Price%20Filtering.png)
 
 ### 6. Multiple Query
 
-![Multiple-query](screenshots/06-multiple-query.png)
+![Multiple-query](screenshots/Multiple%20Query.png)
 
 ### 7. POST Successful Request
 
-![POST Success](screenshots/07-post-success.png)
+![POST Success](screenshots/POST%20Successful%20Request.png)
 
 ### 8. POST Validation Error
 
-![POST Validation](screenshots/08-post-validation.png)
+![POST Validation](screenshots/POST%20Validation%20Error.png)
 
 ### 9. PUT Update Request
 
-![PUT Update](screenshots/09-put-update.png)
+![PUT Update](screenshots/PUT%20Update%20Request.png)
 
 ### 10. DELETE Request
 
-![DELETE Book](screenshots/10-delete.png)
+![DELETE Book](screenshots/DELETE%20Request.png)
 
 ## Conclusion
 
