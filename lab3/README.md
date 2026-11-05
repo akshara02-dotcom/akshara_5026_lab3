@@ -12,8 +12,7 @@
 
 ## Deployment URL
 
-**Render URL:** https://vinuthna-5017-lab3.onrender.com/books 
-
+**Render URL:** https://akshara-5026-lab3.onrender.com/books
 ## Project Description
 
 This project implements RESTful API operations using Node.js, Express.js, and SQLite. It provides endpoints to create, retrieve, update, and delete book records.
